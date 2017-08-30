@@ -1,4 +1,4 @@
-Git is a version control system.
+Git is a distributed version control system.
 Git is free software.
 SimPy is discreate-event simulation library!
 LearnSimpy includes easilly comprehensible examples , which i coded or met with SimPy!
